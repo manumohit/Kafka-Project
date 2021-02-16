@@ -4,13 +4,13 @@ This project is built using kafka Python API.
 
 # Project-producer.py
 
-This file is producing random records.
-JSON-Serializer is used to send the data.
+1) This file is producing random records.
+2) JSON-Serializer is used to send the data.
 
 # Project-consume.py
 
-This file is consuming the records which are send from producer.
- Consumed records is then sent to MYSQL Database
+1) This file is consuming the records which are send from producer.
+2) Consumed records is then sent to MYSQL Database
  
  MYSQL conncection - 
  Server : localhost
