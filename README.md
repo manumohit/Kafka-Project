@@ -13,9 +13,9 @@ This project is built using kafka Python API.
 2) Consumed records is then sent to MYSQL Database
  
  MYSQL conncection - 
- Server : localhost
- user : root
- password : root
- database : project
- table : products
+ 1) Server : localhost
+ 2) user : root
+ 3) password : root
+ 4) database : project
+ 5) table : products
  
